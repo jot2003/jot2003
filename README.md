@@ -7,7 +7,6 @@
 
 ## Interests
 - 🤖 I’m interested in AI, machine learning, and data science.
-- 🥋 In my free time, I'm learning Muay Thái and MMA for self-defense and cardio.
 - 🏋️‍♂️ I have a strong background in powerlifting and bodybuilding with 2 years of experience.
 
 ## Currently Learning
