@@ -1,7 +1,7 @@
 # Hi, I’m @jot2003 👋 
 
 ## About Me
-- 🎓 I'm currently a 3rd-year university student with a passion for AI and machine learning.
+- 🎓 I'm currently a 4th-year university student with a passion for AI and machine learning.
 - 💻 I have experience in developing AI-based projects, such as a complete attendance system using face recognition technology.
 - 📈 I enjoy working with financial data and have built models for stock price prediction using LSTM-GRU.
 
