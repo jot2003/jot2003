@@ -1,28 +1,35 @@
-# Hi, I’m @jot2003 👋 
+# Hi, I’m @jot2003 — AI Engineer
 
-## About Me
-- 🎓 I'm currently a 4th-year university student with a passion for AI and machine learning.
-- 💻 I have experience in developing AI-based projects, such as a complete attendance system using face recognition technology.
-- 📈 I enjoy working with financial data and have built models for stock price prediction using LSTM-GRU.
+I build **end-to-end multimodal AI systems** that turn real-world inputs (documents, speech, images) into reliable, user-facing products. My work focuses on **Computer Vision**, **LLM/VLM applications**, **real-time AI pipelines**, and **Retrieval-Augmented Generation (RAG)**.
 
-## Interests
-- 🤖 I’m interested in AI, machine learning, and data science.
-- 🏋️‍♂️ I have a strong background in powerlifting and bodybuilding with 2 years of experience.
+## What I’m focusing on
+- **Real-time AI copilots**: streaming speech-to-text, conversation stabilization, WebSocket backends, and UX that feels instant
+- **Document AI & eKYC**: OCR + vision-language models, field-level validation/merging, and face verification
+- **Applied ML engineering**: evaluation, error analysis, and pragmatic design choices that improve reliability
 
-## Currently Learning
-- 🌱 I'm currently enhancing my skills in AI engineering, focusing on advanced machine learning algorithms and techniques.
-- 📊 I’m exploring new ways to improve my stock price prediction models and other AI-related projects.
+## Featured projects
+### Makora — AI Meeting Copilot Platform (Real-time)
+A real-time meeting copilot that **captures audio**, runs **live transcription**, provides **mode-aware AI suggestions**, and enables **RAG chat** across meeting history.
 
-## Collaboration
-- 💞️ I’m looking to collaborate on AI and machine learning projects, especially those related to financial data analysis and predictive modeling.
+- Tech: Electron + React + TypeScript, FastAPI + WebSockets, Azure Speech, Azure OpenAI, FAISS, SQLite
+- Repo: https://github.com/jot2003/Makora
 
-## How to Reach Me
-- 📫 Feel free to reach out to me via email at hoangkimtrithanh@gmail.com.
+### DocuMind — AI-Powered eKYC System (Vietnamese CCCD)
+An end-to-end eKYC pipeline using **OCR + Vision-Language Model extraction**, **field-level cross-validation**, and **face verification** (InsightFace).
 
-## Pronouns
-- 😄 Pronouns: He/Him
+- Tech: React + TypeScript, FastAPI, EasyOCR, Azure OpenAI (vision), OpenCV, InsightFace, Docker Compose
+- Repo: https://github.com/jot2003/eKYC-End-to-End-System
 
-<!---
-jot2003/jot2003 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## Tech stack
+- **Languages**: Python, TypeScript
+- **Backend**: FastAPI, WebSockets, SQLAlchemy, Docker
+- **Frontend**: React, Electron, Tailwind CSS
+- **AI/ML**: Azure OpenAI (LLM/VLM), RAG, embeddings, FAISS, OCR, OpenCV, InsightFace
+
+## Open to
+- Collaboration on applied AI (CV, multimodal, RAG)
+- AI Engineer roles where I can ship product-focused AI systems
+
+## Contact
+- Email: hoangkimtrithanh@gmail.com
+- Pronouns: He/Him
